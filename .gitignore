@@ -1,0 +1,14 @@
+vendor/lib64/mt6983/libaibc_tuning.so
+vendor/etc/camera/vidhance.lic
+system/system/priv-app/AsusTips/AsusTips.apk
+system/system/priv-app/ROGGameCenter/ROGGameCenter.apk
+system/system/priv-app/ROGAsusSettings/ROGAsusSettings.apk
+system/system/priv-app/AsusSystemUI/AsusSystemUI.apk
+system/system/app/ArmouryCrateAR/ArmouryCrateAR.apk
+system/system/app/AsusSetupWizard/AsusSetupWizard.apk
+system/system/system_ext/apex/com.android.vndk.v30.apex
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/ASUSAR/ASUSAR.apk
